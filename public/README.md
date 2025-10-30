@@ -1,4 +1,4 @@
-# 🥤 DrinkHub - Ứng dụng đặt đồ uống
+# 🥤 SillyFood - Ứng dụng đặt đồ uống và đồ ăn
 
 Ứng dụng web đặt đồ uống từ các cửa hàng xung quanh trường đại học với tính năng gửi thông tin đơn hàng qua Telegram bot.
 
